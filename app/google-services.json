@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "905015388183",
+    "firebase_url": "https://snaps-a61f9.firebaseio.com",
+    "project_id": "snaps-a61f9",
+    "storage_bucket": "snaps-a61f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905015388183:android:91235abda7cab568",
+        "android_client_info": {
+          "package_name": "com.example.rahul.snaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905015388183-cpgathab53qq0bd30v98tlcivgk4h877.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulq5gH8toPwOyhp2ajegsWMilv3heiXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905015388183:android:bc7767d6b9a4d779",
+        "android_client_info": {
+          "package_name": "com.solanki.sahil.snaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905015388183-cpgathab53qq0bd30v98tlcivgk4h877.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulq5gH8toPwOyhp2ajegsWMilv3heiXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Snaps</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+</resources>
